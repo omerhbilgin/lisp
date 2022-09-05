@@ -1,4 +1,4 @@
-Written with DrRacket
+Written with DrRacket.
 
 Within DrRacket, I have downloaded the "sicp" package, which is a Scheme implementation suited for the Scheme dialect used in the famous computer science book "Structure and Interpretation of Computer Programs". 
 
